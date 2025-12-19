@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f96bea20-412c-4c85-9b4d-02661082f798" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="36uumKU0OqdVuBZQGh5pDO3EvMm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "TestNG.AppStoreTest.testAppStore.executor": "Run",
+    "TestNG.CartCheckoutTest.testCartCheckout.executor": "Run",
+    "TestNG.CartViewCheckoutTest.testCartCheckout.executor": "Run",
+    "TestNG.DropDownOptionsTest.testDropdownOptions.executor": "Run",
+    "TestNG.LoginTest.testLogin.executor": "Run",
+    "TestNG.PlaceOrderTest.orderItemTest.executor": "Run",
+    "TestNG.ProceedToCheckoutTest.testProceedToCheckout.executor": "Run",
+    "TestNG.RegistrationTest.testRegistration.executor": "Run",
+    "TestNG.SliderTest.testSliderToLeft.executor": "Run",
+    "TestNG.TestNavigation.navigateToStoreTest.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Prayer House/IdeaProjects/askomdch_test/src",
+    "onboarding.tips.debug.path": "C:/Users/Prayer House/IdeaProjects/askomdch_test/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Prayer House\IdeaProjects\askomdch_test\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Prayer House\IdeaProjects\askomdch_test\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PlaceOrderTest.orderItemTest">
+    <configuration name="AppStoreTest.testAppStore" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdch_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="appstore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="appstore" />
+      <option name="MAIN_CLASS_NAME" value="appstore.AppStoreTest" />
+      <option name="METHOD_NAME" value="testAppStore" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartViewCheckoutTest.testCartCheckout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdch_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="checkout" />
+      <option name="MAIN_CLASS_NAME" value="checkout.CartViewCheckoutTest" />
+      <option name="METHOD_NAME" value="testCartCheckout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaceOrderTest.orderItemTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdch_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="checkout" />
+      <option name="MAIN_CLASS_NAME" value="checkout.PlaceOrderTest" />
+      <option name="METHOD_NAME" value="orderItemTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProceedToCheckoutTest.testProceedToCheckout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdch_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="checkout.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="checkout" />
+      <option name="MAIN_CLASS_NAME" value="checkout.ProceedToCheckoutTest" />
+      <option name="METHOD_NAME" value="testProceedToCheckout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SliderTest.testSliderToLeft" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="askomdch_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slider" />
+      <option name="MAIN_CLASS_NAME" value="slider.SliderTest" />
+      <option name="METHOD_NAME" value="testSliderToLeft" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PlaceOrderTest.orderItemTest" />
+        <item itemvalue="TestNG.AppStoreTest.testAppStore" />
+        <item itemvalue="TestNG.ProceedToCheckoutTest.testProceedToCheckout" />
+        <item itemvalue="TestNG.CartViewCheckoutTest.testCartCheckout" />
+        <item itemvalue="TestNG.SliderTest.testSliderToLeft" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f96bea20-412c-4c85-9b4d-02661082f798" name="Changes" comment="" />
+      <created>1765868937919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765868937919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/CheckoutProduct.java</url>
+          <line>1</line>
+          <properties class="org.askOmDch.page.CheckoutPage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/pages/CheckoutProduct.java</url>
+          <line>47</line>
+          <properties class="pages.CheckoutProduct">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
