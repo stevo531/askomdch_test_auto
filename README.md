@@ -1,0 +1,1 @@
+# askomdch_test_auto
